@@ -4,7 +4,7 @@ This is an implementation for fine-tuning Swin Transformer models using **Parame
 
 ---
 
-## 📊 Example Training Results
+## Example Training Results
 
 Below are sample results from training the Swin Transformer with PEFT:
 
@@ -24,7 +24,7 @@ Below are sample results from training the Swin Transformer with PEFT:
 - **Test Precision**: `91.87%`  
 
 ---
-## 🛠️ How It Works
+## How It Works
 
 ### Dataset Preparation
 The script expects the dataset to be provided as a Parquet file with the following structure:
@@ -52,7 +52,7 @@ The model is fine-tuned using the following steps:
 
 ---
 
-## 🔧 Installation
+## Installation
 
 Follow these steps to install the required dependencies and set up the environment:
 
@@ -63,7 +63,7 @@ Follow these steps to install the required dependencies and set up the environme
 
    pip install -r requirements.txt
 
-## 🚀 Quick Start
+## Start
 
 Run the script with the following command:
 
