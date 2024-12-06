@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+saved_model/
+output/
+*.parquet
+*.pth
+*.ckpt
+.cache/
