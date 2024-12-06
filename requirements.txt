@@ -1,6 +1,0 @@
-torch
-torchvision
-peft
-pandas
-pillow
-scikit-learn
